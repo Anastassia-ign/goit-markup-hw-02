@@ -1,2 +1,2 @@
-# goit-markup-hw-02
-Anastassia Ignatieva-Homework-02
+# goit-markup-hw-01
+Anastassia Ignatieva-Homework-01
