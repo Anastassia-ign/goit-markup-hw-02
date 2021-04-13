@@ -1,0 +1,213 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: white;
+}
+.list {
+  list-style: none;
+}
+
+/* logo */
+.logo-web {
+  font-family: Raleway;
+  color: black;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+}
+.logo-studio {
+  font-family: Raleway;
+  color: #2196f3;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+}
+
+/* navigation */
+.header {
+  width: 1600px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+  background: #ffffff;
+}
+.site-nav {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  padding-top: 16px;
+  color: #212121;
+}
+
+.site-nav:hover,
+.site-nav:focus {
+  color: #2196f3;
+}
+
+/* contacts */
+
+.contacts-links-list {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+.contact-links {
+  color: #757575;
+}
+.contact-links:focus,
+.contact-links:hover {
+  color: #2196f3;
+}
+
+/* Buttons */
+button {
+  background: #2196f3;
+  color: white;
+}
+
+/* Hero section */
+.hero-section1 {
+  background: black;
+}
+.hero-section1-title {
+  color: #ffffff;
+  font-style: normal;
+  text-align: center;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+}
+.hero-section1 > button {
+  background: #2196f3;
+  color: white;
+  border-radius: 4px;
+}
+
+/* Section-Portfolio */
+.portfolio-name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+.portfolio-discription {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+/* Section2-Text-Servises */
+
+.servises-title {
+  color: #212121;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+}
+.servises-description {
+  color: #757575;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+}
+
+/* Section3-Pictures-Servises */
+
+.pictures-servise-title {
+  color: #212121;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+/* Section4-Team */
+
+.team-section4 {
+  background: #f5f4fa;
+}
+
+.team-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+.team-name {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.team-name-description {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+/* Footer */
+
+.logo-web2 {
+  color: white;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+}
+
+.contacts-footer {
+  background: #2f303a;
+}
+.contacts-footer-adress {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+}
+
+.contacts-footer-adress-mail {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+/* top line bg - #FFFFFF */
+
+/* hero bg  - #2F303A  */
+
+/* hero bg  - #2F303A  */
+
+/* titles - #212121  */
+
+/* discriptions - #757575  */
+
+/* button - #2196F3  */
