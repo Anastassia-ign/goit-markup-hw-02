@@ -6,22 +6,23 @@ body {
   list-style: none;
 }
 
+a {
+  text-decoration: none;
+  color: #212121;
+}
+
 /* logo */
 .logo-web {
   font-family: Raleway;
   color: black;
-  font-style: normal;
   font-weight: bold;
   font-size: 26px;
-  line-height: 31px;
 }
 .logo-studio {
   font-family: Raleway;
   color: #2196f3;
-  font-style: normal;
   font-weight: bold;
   font-size: 26px;
-  line-height: 31px;
 }
 
 /* navigation */
@@ -61,9 +62,10 @@ body {
 }
 
 /* Buttons */
-button {
-  background: #2196f3;
-  color: white;
+
+.button-link:focus,
+.button-link:hover {
+  background-color: #2196f3;
 }
 
 /* Hero section */
@@ -77,11 +79,6 @@ button {
   font-weight: 900;
   font-size: 44px;
   line-height: 60px;
-}
-.hero-section1 > button {
-  background: #2196f3;
-  color: white;
-  border-radius: 4px;
 }
 
 /* Section-Portfolio */
