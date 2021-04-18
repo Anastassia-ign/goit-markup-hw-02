@@ -74,14 +74,14 @@ a {
 
 /* Buttons */
 
-.button {
-  font: Roboto;
+.button-link {
   border-radius: 4px;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.8;
   letter-spacing: 0.06em;
   background: #f5f4fa;
+  color: var(--font1-color);
 }
 
 .button-link:focus,
